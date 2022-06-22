@@ -1,3 +1,5 @@
+![linkedin banner](https://user-images.githubusercontent.com/88636164/175008892-873edcbf-8e53-4754-aaec-2b71263562c4.png)
+
 <h1>👋 Hi, I’m @alexandrufako!</h1>
 - 👀 I’m interested in JavaScript, HTML, CSS, anything technical basically, i love to fiddle around geeky stuff, everyday I find new interests in this field. 
 Would love to create my own app someday. Owned my own company for 7 years as a fashion designer and creating my own clothing brand and clothes; pandemic closed my business and
