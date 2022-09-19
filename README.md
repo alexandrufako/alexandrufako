@@ -1,4 +1,4 @@
-![linkedin banner](https://user-images.githubusercontent.com/88636164/175008892-873edcbf-8e53-4754-aaec-2b71263562c4.png)
+
 
 <h1>👋 Hi, I’m @alexandrufako!</h1>
 <h3>- 👀 I’m interested in REACT, JavaScript, HTML, CSS, GIT, Node...anything web related basically, I love to fiddle around geeky stuff, everyday I find new interests in this field. </h3>
